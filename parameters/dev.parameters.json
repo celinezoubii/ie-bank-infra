@@ -6,19 +6,19 @@
             "value": "nonprod"
         },
         "postgreSQLServerName": {
-            "value": "jseijas-dbsrv-dev"
+            "value": "celine-dbsrv-dev"
         },
         "postgreSQLDatabaseName": {
-            "value": "jseijas-db-dev"
+            "value": "celine-db-dev"
         },
         "appServicePlanName": {
-            "value": "jseijas-asp-dev"
+            "value": "celine-asp-dev"
         },
         "appServiceAPIAppName": {
-            "value": "jseijas-be-dev"
+            "value": "celine-be-dev"
         },
         "appServiceAppName": {
-            "value": "jseijas-fe-dev"
+            "value": "celine-fe-dev"
         },
         "location": {
             "value": "North Europe"

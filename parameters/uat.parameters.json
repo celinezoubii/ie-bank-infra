@@ -6,19 +6,19 @@
             "value": "uat"
         },
         "postgreSQLServerName": {
-            "value": "czoubi-dbsrv-uat"
+            "value": "celine-dbsrv-uat"
         },
         "postgreSQLDatabaseName": {
-            "value": "czoubi-db-uat"
+            "value": "celine-db-uat"
         },
         "appServicePlanName": {
-            "value": "czoubi-asp-uat"
+            "value": "celine-asp-uat"
         },
         "appServiceAPIAppName": {
-            "value": "czoubi-be-uat"
+            "value": "celine-be-uat"
         },
         "appServiceAppName": {
-            "value": "czoubi-fe-uat"
+            "value": "celine-fe-uat"
         },
         "location": {
             "value": "North Europe"
